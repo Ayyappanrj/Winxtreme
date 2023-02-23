@@ -11,7 +11,6 @@
 
         <main class="main-content">
            
-       
  
                 <div class="container">  
                     <div class="product-banner-item">
